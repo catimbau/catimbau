@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, my name is Diogo, and welcome to my GitHub 😊
 
-<!--
-**catimbau/catimbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="">
+  <a href="https://github.com/catimbau">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=catimbau&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catimbau&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+#
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/catim4eva/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiogoAn55659475)
+
+
+###
+
+ ![Snake animation](https://github.com/brennosullivan/brennosullivan/blob/output/github-contribution-grid-snake.svg)
